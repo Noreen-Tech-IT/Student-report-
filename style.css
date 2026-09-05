@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+}
+#studentreportcard{
+    background-color: rgb(159, 78, 235);
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    padding:50px;
+    margin: 50px auto;
+    box-shadow: 5px 5px 10px blueviolet; 
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 30px;
+
+}
+
+#reportcard{
+    background-color:rgb(204, 152, 252);
+    text-align: center;
+    height:300px ;
+    width:200px ;
+    padding: 30px;
+    margin: 50px auto; 
+    border-radius: 10px; 
+    
+}
+tr{
+    background-color:  rgb(159, 78, 235);
+    font-size: 20px;
+
+        
+}
